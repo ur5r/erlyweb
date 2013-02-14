@@ -1,6 +1,6 @@
 %% @author Yariv Sadan <yarivsblog@gmail.com> [http://yarivsblog.com]
 %% @copyright Yariv Sadan 2006-2007
-%%
+%% add unit tests here...
 %% @doc  Smerl: Simple Metaprogramming for Erlang
 %%
 %%  Smerl is an Erlang library
@@ -24,7 +24,7 @@
 %%    foo:bar(),   % returns 2``
 %%    smerl:has_func(M2, bar, 0). % returns true
 %%  '''
-%%
+%% 
 %%  New functions can be expressed either as strings of Erlang code
 %%  or as abstract forms. For more information, read the Abstract Format
 %%  section in the ERTS User's guide
